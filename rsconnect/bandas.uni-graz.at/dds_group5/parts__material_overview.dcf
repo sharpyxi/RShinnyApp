@@ -1,0 +1,12 @@
+name: parts__material_overview
+title: Parts & Material Overview
+username: dds_group5
+account: dds_group5
+server: bandas.uni-graz.at
+hostUrl: https://bandas.uni-graz.at/rconnect/__api__
+appId: 12
+bundleId: 35
+url: https://bandas.uni-graz.at:443/rconnect/content/12/
+when: 1592944109.55873
+asMultiple: FALSE
+asStatic: FALSE
